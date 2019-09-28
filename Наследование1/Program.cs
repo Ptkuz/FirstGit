@@ -37,6 +37,7 @@ namespace Наследование1
         {
             
             Employy e = new Employy("Андерсон", 25, "Матрица");
+            Console.WriteLine("Привет, GitHub");
             Console.ReadKey();
         }
     }
